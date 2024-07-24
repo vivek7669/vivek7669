@@ -17,6 +17,14 @@
 - 📫 How to reach me **chauhanvivek0918@gmail.com**
 
 - ⚡ Fun fact **I Am Excited For Learning New Language**
+
+- const life = {
+	"lerning" : { "stop" : false }	
+};<br>
+do{<br>
+  console.log("improve programming skills ✔");<br>
+}while(life.lerning.stop != true);
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
