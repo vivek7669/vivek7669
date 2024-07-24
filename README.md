@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek7669&show_icons=true&locale=en" alt="vivek7669" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek7669&" alt="vivek7669" /></p>
+
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/vivek7669/vivek7669/output/github-snake.svg" /><br><br>
